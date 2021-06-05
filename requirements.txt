@@ -1,0 +1,4 @@
+django==3.2.4
+sqlparse==0.2.2
+asgiref==3.3.2
+jinja2==2.11.3
